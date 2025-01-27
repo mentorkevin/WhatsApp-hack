@@ -11,7 +11,7 @@ $ apt install python2
 
 $ apt install git
 
-$ git clone 'https://github.com/mentorkevin/WhatsApp-hack.git'
+$ git clone https://github.com/mentorkevin/WhatsApp-hack.git
 
 $ cd HxWhatsApp
 
