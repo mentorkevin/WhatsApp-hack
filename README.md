@@ -13,7 +13,7 @@ $ apt install git
 
 $ git clone https://github.com/mentorkevin/WhatsApp-hack.git
 
-$ cd HxWhatsApp
+$ cd WhatsApp-hack
 
 $ chmod +x HxWhatsApp.py
 
